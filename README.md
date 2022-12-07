@@ -1,2 +1,3 @@
 # Trigger-Word-Detectio
-Trigger-Word-Detection
+
+Coursera all rights reserved 
