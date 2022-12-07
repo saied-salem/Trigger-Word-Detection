@@ -1,2 +1,2 @@
-# Word-trigring-
+# Trigger-Word-Detectio
 Trigger-Word-Detection
